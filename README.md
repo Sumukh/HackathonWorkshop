@@ -47,9 +47,11 @@ Tips: Choose a programming language/enviroment you are familiar with. It's a goo
 
 4. Common Mistakes
 --------------------
-OAuth - "Oh we'll just integrate with facebook" 
-OCR/Computer Vision - It's not that easy to do
-Deploy - you put everything on localhost for a while and don't deploy until one hour before the demos. 
+- OAuth - "Oh we'll just integrate with facebook" 
+
+- OCR/Computer Vision - It's not that easy to do
+
+- Deploy - you put everything on localhost for a while and don't deploy until one hour before the demos. 
 
 
 5. Tips
