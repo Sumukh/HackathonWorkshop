@@ -1,6 +1,6 @@
 HackathonWorkshop
 =================
-
+Author: Sumukh Sridhara (@sumukhsridhara)
 
 Contents:
 1. What is a hackathon 
@@ -13,7 +13,7 @@ Contents:
 
 1. What is a hackathon?
 -----------------------
-A hackathon is usually a 24-48 event where you (and your team) set to build something cool - with either hardware or software. At the end, you demo your project to the sponsors/audience/judges. Usually you end up with a prototype of a product, learn a lot, and possibly win some prizes. The usual rules are: teams of upto 4, code should be written at the event (open-source/libraries are fine), there might be special prize categories, using APIs is encouraged.
+A hackathon is usually a 24-48 hour event where you (and your team) set to build something cool - with either hardware or software. At the end, you demo your project to the sponsors/audience/judges. Usually you end up with a prototype of a product, learn a lot, and possibly win some prizes. The usual rules are: teams of upto 4, code should be written at the event (open-source/libraries are fine), there might be special prize categories, using APIs is encouraged.
 
 There will be a lot of food/snacks - be sure to enjoy it & drink lots of water. Contarary to popular belief - You shouldn't stay up the whole time - it's okay to sleep/take a nap. 
 
@@ -42,11 +42,15 @@ Examples include: A website to find someone to study with. A website to find a t
 
 3. How to actually build the hack
 --------------------
+Tips: Choose a programming language/enviroment you are familiar with. It's a good idea to learn something new - like a new framework or technology. 
 
 
 4. Common Mistakes
 --------------------
 OAuth - "Oh we'll just integrate with facebook" 
+OCR/Computer Vision - It's not that easy to do
+Deploy - you put everything on localhost for a while and don't deploy until one hour before the demos. 
+
 
 5. Tips
 -------------------
