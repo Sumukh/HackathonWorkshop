@@ -1,11 +1,10 @@
-HackathonWorkshop
+Deconstructing A Hack - A Pre Hackathon Workshop
 =================
 Author: Sumukh Sridhara (@sumukhsridhara)
 
 Contents:
 - What is a hackathon 
 - How to think of ideas.
-
 - How to actually go about building your idea.
 - Common Mistakes
 - Other Tips
@@ -85,7 +84,14 @@ Prebuilt Code Examples:
 
 5. Tips
 -------------------
-Worse Is Better. Done is better than perfect. 
+- Worse Is Better. Done is better than perfect. 
+- Find a team! 
+- It's okay to find a team or idea on the spot. 
+- Pick an ambitious idea but keep your limitations in mind.
+
+6. Questions
+-------------------
+- As an exercise: Let's talk about an idea and we'll talk about how I would go about building it. 
 
 
 Links:
