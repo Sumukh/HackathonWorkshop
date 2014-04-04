@@ -91,7 +91,8 @@ Prebuilt Code Examples:
 
 6. Questions
 -------------------
-- As an exercise: Let's talk about an idea and we'll talk about how I would go about building it. 
+- As an exercise: Let's talk about an idea and we can discuss how to go about building it. 
+- Also this is a great chance to find team members or a team if don't have one yet. 
 
 
 Links:
