@@ -42,17 +42,45 @@ Examples include: A website to find someone to study with. A website to find a t
 
 3. How to actually build the hack
 --------------------
-Tips: Choose a programming language/enviroment you are familiar with. It's a good idea to learn something new - like a new framework or technology. 
+
+I'll go over this when I deconstruct a previous hack.
+
+Steps to build your hack:
+1. Come up with an idea that you care about.
+2. No idea you love yet? Go to step 1. 
+3. Figure out what is the core parts of it that will impress people. Now cut the core features in half. Those are the core features.
+5. Figure out how you are going to pitch/demo it and what parts are actually important. 
+6. Write out what you need to build to get to the important/core features - and if you can avoid building them. 
+7. Figure out a language/framework that your team can work with & what APIs you will be using. 
+8. Assign features/roles to people (make sure they can be merged to work together)
+9. Start working on your feature -> Google around to see how other people have implemented it. 
+10. See if there are examples and work from there -> avoid starting from scratch. 
+11. StackOverflow & GitHub are your friends. 
+
+Tips:
+- Choose a programming language/enviroment you are familiar with. It's a good idea to try to learn something new - like a new framework or technology. It's okay if you don't have experience with a technology - it's a great place to learn. 
+- Use a framework or pre-built code. For HTML: Bootstrap/Foundation. 
+- Learn from tutorials. 
+- If you have a complicated bug - ask for help! 
+- Design is important. The best demos have a really slick/packaged demo with cool functionality. So it makes sense to have one person focus on design/demo. 
+- Use & Learn Git.
+- Assign work and make sure it can come together.
+- Aim to get the core of your app up in the first half of the hackathon. 
+
+Prebuilt Code Examples:
+- User Accounts + Social(FB/Twitter) Login  https://github.com/sahat/hackathon-starter
+- Google Maps Starter: https://github.com/RakanNimer/Google-Maps-JS-Example
+- iOS Apps: Look for open source implementations
 
 
 4. Common Mistakes
 --------------------
 - OAuth - "Oh we'll just integrate with facebook" 
-
-- OCR/Computer Vision - It's not that easy to do
-
-- Deploy - you put everything on localhost for a while and don't deploy until one hour before the demos. 
-
+- OCR/Computer Vision - It's not as simple as it seems (or as reliable). 
+- Augmented Reality/Mobile Hacks - Consider how you are going to demo. You can either use a desk camera or a laptop. It's hard to display AR otherwise. 
+- Deploy - you put everything on localhost for a while and don't deploy until one hour before the demos.
+- Sitting in one place the whole time - walk around & talk to people. 
+- Worrying about efficiency - Unlike school - you are not graded on how neat/optimized your code is - you are trying to build a product. Get to the product first - then optimize. 
 
 5. Tips
 -------------------
