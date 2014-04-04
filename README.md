@@ -81,19 +81,32 @@ Prebuilt Code Examples:
 - Deploy - you put everything on localhost for a while and don't deploy until one hour before the demos.
 - Sitting in one place the whole time - walk around & talk to people. 
 - Worrying about efficiency - Unlike school - you are not graded on how neat/optimized your code is - you are trying to build a product. Get to the product first - then optimize. 
+- We'll use a slideshow for the demo. Don't use a slideshow - you want to show not tell.
 
 5. Tips
 -------------------
 - Worse Is Better. Done is better than perfect. 
 - Find a team! 
 - It's okay to find a team or idea on the spot. 
-- Pick an ambitious idea but keep your limitations in mind.
+- Have a designer - or spend time on making it look good.
+- The demo is extremely important
+- Try to make the demo flow & feel polished (even/especially if you're working on backend stuff) & add in humor.
+- Pick an ambitious idea but keep your limitations in mind. Focus on the ONE core interaction/value proposition.
+- Talk to people/sponsors, Eat food, Have fun!
 
 6. Questions
 -------------------
 - As an exercise: Let's talk about an idea and we can discuss how to go about building it. 
 - Also this is a great chance to find team members or a team if don't have one yet. 
 
+
+Summary: 
+- Get a team
+- Pick an idea you're passionate about - whether it's futuristic or solving a personal problem.
+- You only have so much time - figure out what you can reasonably build
+- Limit your scope to the ONE core interaction. Cut your features in half. 
+- Talk to people/sponsors, Eat food, Have fun!
+- Rehearse your demo and keep it in time. 
 
 Links:
 http://sunmichelle.com/post/26891284996/first-hackathon
