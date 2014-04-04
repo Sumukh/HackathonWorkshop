@@ -3,12 +3,13 @@ HackathonWorkshop
 Author: Sumukh Sridhara (@sumukhsridhara)
 
 Contents:
-1. What is a hackathon 
-2. How to think of ideas.
-3. How to actually go about building your idea.
-4. Common Mistakes
-5. Other Tips
-6. Questions?
+- What is a hackathon 
+- How to think of ideas.
+
+- How to actually go about building your idea.
+- Common Mistakes
+- Other Tips
+- Questions?
 
 
 1. What is a hackathon?
