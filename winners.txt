@@ -1,0 +1,35 @@
+Previous Winning Ideas:
+
+
+1st Place Winners:
+Homework Help (PennApps 2014): This hardware hack can read basic math problems, solve them and write out the answers in your own handwriting.
+Realtime Mobile A/B Testing (PennApps 2013) 
+
+
+
+LightBoard  (HackMIT 2013) - Turn your phone’s flash light into a paintbrush with a welcome 
+
+Toaster.js (Greylock 2012) - Control your electronics/sensors & Home Automation. #Berkeley
+
+Facebook + Siri (Facebook College Finals 2012): Use voice recognition to ask Facebook questions like ‘Which of my friends is single -> like graph search before graph search’
+
+Python to Javascript Compiler (Facebook Battle of the Bay 2012) - Compile python to actual javascript for actual use in the web.  #Berkeley
+
+TI Schemer (Big Hack 2013) - Write Scheme on your TI calculator. #Berkeley
+
+Dropbox Time Machine (Big Hack 2013) - Apple Time Machine + Dropbox Revision History
+ 
+Inventory (PennApps S2013) - Detect what’s in your backpack and alert you if you’re missing something. 
+
+Java Music Generator - Hears music and turns it into sheet music.
+ 
+
+2nd Place Winners:
+
+Googloplex (PennApps 2014): A hack for everyone who wishes Siri did more. With this third-party app, Apple users can use Siri to Venmo friends, play Spotify, Instagram something and adjust Hue lights.
+Assassins  (Greylock 2012)- Using phones to bring social gaming into real life. use your phone to play assassins.
+
+Lost & Sound - (Big Hack 2013) - simple maze game navigating with solely music. 
+
+WebcamStreetFighters (Facebook Hackathon Finals)Street Fighter browser-based game controlled by webcam
+
